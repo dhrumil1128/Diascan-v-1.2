@@ -145,17 +145,6 @@ streamlit run app.py # Or whatever your main application file is named
 
 Your default web browser should automatically open the application at http://localhost:8501.
 
-Deployment
-Diascan-v-1.2 is designed for straightforward deployment, allowing you to share this powerful tool with others:
-
-Streamlit Community Cloud: The easiest and fastest way to deploy Streamlit applications directly from your GitHub repository for free. Ideal for showcasing your app quickly.
-
-Render: A popular cloud platform that simplifies the deployment of web services, including Streamlit applications. You can host your agent directly from your GitHub repository.
-
-Heroku: Another robust platform for deploying Python web applications.
-
-Docker: Containerize your application for consistent deployment across various environments.
-
 Future Enhancements
 While Diascan-v-1.2 offers significant capabilities, there are always avenues for further development:
 
@@ -180,7 +169,7 @@ Launch the Diascan-v-1.2 Web App Demo
 
 Contact
 I'm Dhrumil Pawar, the developer behind the Diascan project. I am passionate about leveraging technology to create impactful solutions in healthcare and beyond. Feel free to connect or reach out!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_PROFILE_URL_HERE](https://www.linkedin.com/in/dhrumil-pawar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrumil-pawar/)
 
 
 License
