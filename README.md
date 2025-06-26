@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/dhrumil1128/Diascan-v-1.2?style=social)](https://github.com/dhrumil1128/Diascan-v-1.2)
 
-🩺 Diascan-v-1.2: Intelligent Diabetes Prediction & Management
+# 🩺 Diascan-v-1.2: Intelligent Diabetes Prediction & Management
 
 Detailed Overview
 Diascan-v-1.2 represents a significant advancement in intelligent healthcare solutions, specifically designed to empower individuals and healthcare professionals with a sophisticated tool for early diabetes prediction and comprehensive risk assessment. Built upon a robust machine learning framework, this application provides an intuitive and interactive platform for analyzing key health indicators to determine the likelihood of diabetes, offering crucial insights for proactive health management.
