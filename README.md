@@ -171,20 +171,6 @@ Follow these steps to get Diascan-v-1.2 up and running on your local machine.
     ```
     Your default web browser should automatically open the application at `http://localhost:3000` (or similar, as configured by Next.js).
 
-## Deployment
-
-Diascan-v-1.2 is designed for straightforward deployment, allowing you to share this powerful tool with others. The frontend and backend can often be deployed separately.
-
-* **Frontend (Next.js):**
-    * **Vercel:** The easiest and most recommended platform for Next.js applications, offering seamless deployment directly from your GitHub repository.
-    * **Netlify:** Another excellent option for deploying static sites and frontend frameworks.
-
-* **Backend (FastAPI):**
-    * **Render:** A great platform for deploying web services, including Python/FastAPI applications, directly from your GitHub.
-    * **Heroku:** A robust platform for deploying Python web applications.
-    * **AWS EC2/Lambda, Google Cloud Run/App Engine, Azure App Service:** For more scalable and customizable cloud deployments.
-
-
 
 ## Future Enhancements
 
