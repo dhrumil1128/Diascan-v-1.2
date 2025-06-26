@@ -1,7 +1,5 @@
 # 🩺 Diascan-v-1.2: Intelligent Diabetes Prediction & Management
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_URL_HERE)
-[![Render App](https://img.shields.io/badge/Deploy%20on-Render-46E3B7?style=flat&logo=render)](YOUR_RENDER_DEMO_URL_HERE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/dhrumil1128/Diascan-v-1.2)](https://github.com/dhrumil1128/Diascan-v-1.2/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Stars](https://img.shields.io/github/stars/dhrumil1128/Diascan-v-1.2?style=social)](https://github.com/dhrumil1128/Diascan-v-1.2)
@@ -186,7 +184,7 @@ Diascan-v-1.2 is designed for straightforward deployment, allowing you to share 
     * **Heroku:** A robust platform for deploying Python web applications.
     * **AWS EC2/Lambda, Google Cloud Run/App Engine, Azure App Service:** For more scalable and customizable cloud deployments.
 
-* **Docker:** Containerize both your frontend and backend for consistent deployment across various environments.
+
 
 ## Future Enhancements
 
@@ -206,17 +204,15 @@ While Diascan-v-1.2 offers significant capabilities, there are always avenues fo
 
 * **Mobile Application:** Develop native iOS/Android applications for wider accessibility, potentially reusing the FastAPI backend.
 
-## Demo Link
+## Demo Video Link
 
-Experience Diascan-v-1.2 live in action:
-
-[**Launch the Diascan-v-1.2 Web App Demo**](YOUR_STREAMLIT_APP_URL_HERE)
+[**Launch the Diascan-v-1.2 Web App Demo Video**]([Demo_Video_URL_HERE](https://drive.google.com/file/d/1wlQ3-Dl6s-7JDyidywl2pVb7vJAXAVv6/view?usp=sharing)
 
 ## Contact
 
 I'm **Dhrumil Pawar**, the developer behind the Diascan project. I am passionate about leveraging technology to create impactful solutions in healthcare and beyond. Feel free to connect or reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_PROFILE_URL_HERE](https://www.linkedin.com/in/dhrumil-pawar/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhrumil1128)
 
 ## License
