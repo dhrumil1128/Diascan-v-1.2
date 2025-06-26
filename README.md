@@ -212,7 +212,7 @@ While Diascan-v-1.2 offers significant capabilities, there are always avenues fo
 
 I'm **Dhrumil Pawar**, the developer behind the Diascan project. I am passionate about leveraging technology to create impactful solutions in healthcare and beyond. Feel free to connect or reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/dhrumil-pawar/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrumil-pawar/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhrumil1128)
 
 ## License
