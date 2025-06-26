@@ -206,7 +206,7 @@ While Diascan-v-1.2 offers significant capabilities, there are always avenues fo
 
 ## Demo Video Link
 
-[**Launch the Diascan-v-1.2 Web App Demo Video**]([Demo_Video_URL_HERE](https://drive.google.com/file/d/1wlQ3-Dl6s-7JDyidywl2pVb7vJAXAVv6/view?usp=sharing)
+[**Launch the Diascan-v-1.2 Web App Demo Video**](https://drive.google.com/file/d/1wlQ3-Dl6s-7JDyidywl2pVb7vJAXAVv6/view?usp=sharing)
 
 ## Contact
 
