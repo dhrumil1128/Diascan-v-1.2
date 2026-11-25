@@ -16,8 +16,6 @@
     "fastapi5": "cd dash-show && uvicorn main2:app --host 127.0.0.1 --port 8004 --reload"
   },
 
-
-  
   "dependencies": {
     "@redux-devtools/extension": "^3.3.0",
     "@reduxjs/toolkit": "^2.6.1",
