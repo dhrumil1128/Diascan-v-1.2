@@ -42,6 +42,7 @@
     "react-spinners": "^0.15.0",
     "recharts": "^2.15.2"
   },
+
   
   "devDependencies": {
     "@types/node": "^20.8.9",
